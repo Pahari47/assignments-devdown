@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-mongoose.connect("mongodb+srv://nachiketapahari00:pahari%406246@stuff.nfbwskc.mongodb.net/cards");
+mongoose.connect("")
 
 const cardSchema = mongoose.Schema({
     name: String,
